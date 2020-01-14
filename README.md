@@ -21,6 +21,10 @@ Adding a link to the badge to the package page:
 
 ```markdown
 [![Latest version](https://mirror.nest.saker.build/badges/PACKAGENAME/version.svg)](https://nest.saker.build/package/PACKAGENAME "PACKAGENAME | saker.nest")
+
+Note: you may need to add a backslash '\' in the above link title
+as some markdown may interpret it as a table:
+"PACKAGENAME \| saker.nest"
 ```
 
 Full badge with package name: 
