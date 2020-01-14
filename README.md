@@ -1,9 +1,11 @@
 # mirror.nest.saker.build-site
 Contains resources derived from the contents of the saker.nest repository
 
-The repository provides access to badges that you can use to display various information about a given package.
+### Badges
 
-Displaying a version of a package: 
+The repository provides access to badges that you can use to display various information about a given package. They are automatically updated when a new version is published.
+
+Markdown for the version of a package: 
 
 ![Latest version](https://mirror.nest.saker.build/badges/saker.build/version.svg)
 
