@@ -17,7 +17,7 @@ Markdown for the version of a package:
 
 Adding a link to the badge to the package page: 
 
-[![Latest version](https://mirror.nest.saker.build/badges/saker.build/version.svg)](https://nest.saker.build/package/saker.build "saker.build | saker.nest")
+[![Latest version](https://mirror.nest.saker.build/badges/saker.build/version.svg)](https://nest.saker.build/package/saker.build "saker.build \| saker.nest")
 
 ```markdown
 [![Latest version](https://mirror.nest.saker.build/badges/PACKAGENAME/version.svg)](https://nest.saker.build/package/PACKAGENAME "PACKAGENAME | saker.nest")
